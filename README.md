@@ -8,7 +8,7 @@ My passion and abilities for research help me to sort the difficulties of my wor
 
 # Working Experience
 
-From 02/01/2008 to current:	Freelance translator
+###From 02/01/2008 to current:	Freelance translator
 
 Even while working on other Jobs, I have kept working on translation from many fields, as Law, Psychology, Education, Subtitles; Liaison interpreter in legal, medical, and industrial fields.
 
