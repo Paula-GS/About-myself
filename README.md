@@ -72,8 +72,4 @@ By [LinkedIn](https://cl.linkedin.com/in/paula-gonz%C3%A1lez-silva-94067856)
 
 
 
-[^note]:
-  I also like like to do handcrafts (knitting, embroidery and sewing) and cooking. Seriously, I make a terrific vanilla pudding
-
-
 
