@@ -1,6 +1,6 @@
 # :woman: About
 
-My name is Paula and I currently live in Chile. I love learning, that is why I studied translation, so there is always a chance to learn something new. Working in different positions I realized when I encounter a problem, I find patterns in it and then solve it creatively. Also, I have leadership habilities when a task is assigned. My research capabilities help me to find a solution, or I need to learn a new skill I can find a way to do it. The pandemic made me realize I needed a change of paths, and in late 2021, I applied for a scholarship for a programming Bootcamp, where I have been learning to code and found out I love front-end.  
+My name is Paula and I currently live in Chile. I love learning, that is why I studied translation, so there is always a chance to learn something new. Working in different positions I realized when I encounter a problem, I find patterns in it and then solve it creatively. Also, I have leadership habilities when a task is assigned. My research capabilities help me to find a solution, or I need to learn a new skill I can find a way to do it. The pandemic made me realize I needed a change of paths, and in late 2021, I applied for and won a scholarship for a programming Bootcamp, where I have been learning to code and found out I love front-end.  
 
 
 
@@ -24,7 +24,7 @@ Manage the Archive, edit legal mandates, doing research in the National Archives
 
 ### **Sales and Foreign Customer Service**
 
-Customer service towards foreign customers, English and Portuguese speakers mainly for the whole department store. One of my skills was helping customers who demanded a fast solution to their situation. Furthermore I was trusted with managing the inventory of the Female Contemporary Clothes department external brands.
+Customer service towards foreign customers, English and Portuguese speakers mainly for the whole department store. One of my skills was helping customers who demanded a fast solution to their situation. Furthermore, I was trusted with managing the inventory of the Female Contemporary Clothes department external brands.
 
 
 
