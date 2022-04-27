@@ -35,32 +35,22 @@ Customer service towards foreign customers, English and Portuguese speakers main
 
 
 
-# Education
-
-2022 
+# Education 
 
 ## Fullstack Python Trainee 
 
-Edutecno-Bootcamp
+Edutecno-Bootcamp, 2022
 
-
-2008
 
 ## Translator in English and Portuguese
 
-Universidad de Santiago de Chile
+Universidad de Santiago de Chile, 2008
 
-
-2008
 
 ## Major in Linguistics Applied to Translation, specialized in English and Portuguese
 
-Universidad de Santiago de Chile 
+Universidad de Santiago de Chile, 2008
 
-
-2007
-
-## TOEIC proficiency test for non-native speakers
 
 
 # Languages
@@ -70,6 +60,8 @@ Spanish: Native
 English: Advanced
 
 Portuguese: Advanced
+
+TOEIC proficiency test for non-native speakers
 
 
 
