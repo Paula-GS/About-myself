@@ -36,11 +36,11 @@ Universidad de Santiago de Chile
 TOEIC proficiency test for non-native speakers
 
 
-#Languages
+# Languages
 
-Spanish: 	Native
-English:	Advanced
-Portuguese: 	Advanced
+Spanish:  	Native
+English:	  Advanced
+Portuguese: Advanced
 
 
 
