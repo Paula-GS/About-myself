@@ -70,6 +70,8 @@ By [GitHub Pages](https://github.com/Paula-GS)
 
 By [LinkedIn](https://cl.linkedin.com/in/paula-gonz%C3%A1lez-silva-94067856)
 
+![Signature](https://github.com/Paula-GS/Paula-GS/blob/main/Signature.png)
+
 
 
 
