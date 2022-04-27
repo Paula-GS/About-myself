@@ -58,13 +58,10 @@ Universidad de Santiago de Chile, 2008
 
 # Languages
 
-**Spanish:** Native
-
-**English:** Advanced
-
-**Portuguese:** Advanced
-
-TOEIC proficiency test for non-native speakers
+- **Spanish:** Native
+- **English:** Advanced
+- **Portuguese:** Advanced
+- TOEIC proficiency test for non-native speakers
 
 
 
