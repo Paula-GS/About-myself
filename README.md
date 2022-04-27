@@ -47,26 +47,27 @@ Universidad de Santiago de Chile, 2008
 
 # 💻 Programming Skills
 
-:black_medium_small_square:	 Python: *beginner*
-:black_medium_small_square:	 Django: *beginner*
-:black_medium_small_square:	 PosgtgreSQL: *beginner*
-:black_medium_small_square:	 Api's: *beginner*
-:black_medium_small_square:	 HTML/CSS: *beginner*
-:black_medium_small_square:	 Bootstrap: *beginner*
-:black_medium_small_square:	 Git-Github: *beginner*
+-	 Python: *beginner*
+-	 Django: *beginner*
+-	 PosgtgreSQL: *beginner*
+-	 Api's: *beginner*
+-	 HTML/CSS: *beginner*
+-	 Bootstrap: *beginner*
+-	 Git-Github: *beginner*
 
 
 # 📚 Languages
 
-:black_medium_small_square:	 **Spanish:** Native
-:black_medium_small_square:	 **English:** Advanced
-:black_medium_small_square:	 **Portuguese:** Advanced
-:black_medium_small_square:	 TOEIC proficiency test for non-native speakers
+-	 **Spanish:** Native
+-	 **English:** Advanced
+-	 **Portuguese:** Advanced
+-	 TOEIC proficiency test for non-native speakers
 
 
 # 📨 How can you contact me?
 
 By [GitHub Pages](https://github.com/Paula-GS)
+
 By [LinkedIn](https://cl.linkedin.com/in/paula-gonz%C3%A1lez-silva-94067856)
 
 
