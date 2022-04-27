@@ -38,8 +38,8 @@ TOEIC proficiency test for non-native speakers
 
 # Languages
 
-Spanish:  	Native
-English:	  Advanced
+Spanish: Native
+English: Advanced
 Portuguese: Advanced
 
 
