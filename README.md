@@ -47,13 +47,13 @@ Universidad de Santiago de Chile, 2008
 
 # Skills
 
-Python: *beginner*
-Django: *beginner*
-PosgtgreSQL: *beginner*
-Api's: *beginner*
-HTML/CSS: *beginner*
-Bootstrap: *beginner*
-Git-Github: *beginner*
+- Python: *beginner*
+- Django: *beginner*
+- PosgtgreSQL: *beginner*
+- Api's: *beginner*
+- HTML/CSS: *beginner*
+- Bootstrap: *beginner*
+- Git-Github: *beginner*
 
 
 # Languages
