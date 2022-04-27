@@ -1,10 +1,10 @@
-:woman:# About
+# :woman: About
 
 My name is Paula and I am in my thirties. I love learning, that is why I studied translation, so there is always a chance to learn something new. Working in different positions I realized when I encounter a problem, I find patterns in it and then solve it creatively. Also, I have leadership habilities when a task is assigned. My research capabilities help me to find a solution, or I need to learn a new skill I can find a way to do it. The pandemic made me realize I needed a change of paths, and in late 2021, I applied for a scholarship for a programming Bootcamp, where I have been learning to code and found out I love front-end.  
 
 
 
-:woman_office_worker: # Working Experience
+# :woman_office_worker: Working Experience
 
 #### From 02/01/2008 to current:	Self Employed
 
@@ -28,7 +28,7 @@ Customer service towards foreign customers, English and Portuguese speakers main
 
 
 
-:woman_student:	 # Education 
+# :woman_student: Education 
 
 ### **Fullstack Python Trainee**
 
@@ -45,7 +45,7 @@ Universidad de Santiago de Chile, 2008
 Universidad de Santiago de Chile, 2008
 
 
-:computer:	# Programming Skills
+# 💻 Programming Skills
 
 - Python: *beginner*
 - Django: *beginner*
@@ -56,7 +56,7 @@ Universidad de Santiago de Chile, 2008
 - Git-Github: *beginner*
 
 
-:books:	 # Languages
+# 📚 Languages
 
 - **Spanish:** Native
 - **English:** Advanced
