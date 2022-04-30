@@ -68,7 +68,7 @@ Universidad de Santiago de Chile, 2008
 
 By [GitHub Pages](https://github.com/Paula-GS)
 
-By [LinkedIn](https://cl.linkedin.com/in/paula-gonz%C3%A1lez-silva-94067856)
+By [LinkedIn](https://www.linkedin.com/in/gonzalezsilvapaula/)
 
 ![Signature](https://github.com/Paula-GS/Paula-GS/blob/main/Signature.png)
 
